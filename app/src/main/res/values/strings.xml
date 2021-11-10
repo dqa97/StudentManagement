@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="btn_add">Add new student</string>
+    <string name="btnGetList">List Student</string>
+    <string name="edit_title">Edit Student Information</string>
+    <string name="name">Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="classes">Classes</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save">Save</string>
+    <string name="login_title">Student Management</string>
+    <string name="password">Password</string>
+    <string name="ques_register">Do you have an account ?</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="id">ID</string>
+    <string name="search">Search</string>
+</resources>
